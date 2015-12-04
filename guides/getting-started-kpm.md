@@ -39,7 +39,6 @@ kpm install <name>
 kpm list
 kpm search <name>
 kpm uninstall <name>
-kpm update
 kpm -h | --help
 kpm --version
 ```
